@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CS 273 Superheroes</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="question_text">Question %1$d of %2$d</string>
+    <string name="image_description_text">Image of the Superhero</string>
+    <string name="guess_superhero_text">Guess the Superhero</string>
+    <string name="quiz_type_text">Quiz Type</string>
+    <string name="quiz_type_description_text">Choose superhero name, superhero, or one thing about them.</string>
+</resources>

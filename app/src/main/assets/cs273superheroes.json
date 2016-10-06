@@ -1,0 +1,186 @@
+{
+  "CS273Superheroes": [
+    {
+      "Username": "rbarron11",
+      "Name": "Roman B",
+      "Superpower": "Ability to tell cats to go away",
+      "OneThing": "Does not like cats",
+      "ImageName": "rbarron11.png"
+    },
+    {
+      "Username": "gbyers01",
+      "Name": "Grant B",
+      "Superpower": "Retain all knowledge",
+      "OneThing": "Loves to wrench",
+      "ImageName": "gbyers01.png"
+    },
+    {
+      "Username": "jcabrera31",
+      "Name": "James C",
+      "Superpower": "Telekinesis",
+      "OneThing": "Loves paddling on water",
+      "ImageName": "jcabrera31.png"
+    },
+    {
+      "Username": "kdo94",
+      "Name": "Kevin D",
+      "Superpower": "Shape-shifting",
+      "OneThing": "Really wants a kitten",
+      "ImageName": "kdo94.png"
+    },
+    {
+      "Username": "bfazeli",
+      "Name": "Bijan F",
+      "Superpower": "Eat with no constraints",
+      "OneThing": "Has B.S. in Microbiology",
+      "ImageName": "bfazeli.png"
+    },
+    {
+      "Username": "kfrederick5",
+      "Name": "Keegan F",
+      "Superpower": "Technomancy",
+      "OneThing": "Loves organizing games",
+      "ImageName": "kfrederick5.png"
+    },
+    {
+      "Username": "hho",
+      "Name": "Huy H",
+      "Superpower": "Ability to fly",
+      "OneThing": "Asks weird questions",
+      "ImageName": "hho.png"
+    },
+    {
+      "Username": "nhoang53",
+      "Name": "Nguyen H",
+      "Superpower": "Working hard",
+      "OneThing": "Likes badminton",
+      "ImageName": "nhoanrsky.png"
+    },
+    {
+      "Username": "fjuarez6",
+      "Name": "Freddy J",
+      "Superpower": "Manipulation",
+      "OneThing": "Loves to travel",
+      "ImageName": "fjuarez6.png"
+    },
+    {
+      "Username": "dkim127",
+      "Name": "Austin K",
+      "Superpower": "Control time",
+      "OneThing": "Likes history and coding",
+      "ImageName": "dkim127.png"
+    },
+    {
+      "Username": "jkloppenburg1",
+      "Name": "Justin K",
+      "Superpower": "Breathe underwater",
+      "OneThing": "Wants to design games",
+      "ImageName": "jkloppenburg1.png"
+    },
+    {
+      "Username": "wlee",
+      "Name": "Wonseop L",
+      "Superpower": "Ability to fly",
+      "OneThing": "Loves to be in nature",
+      "ImageName": "wlee.png"
+    },
+    {
+      "Username": "mmizukami",
+      "Name": "Mahiro M",
+      "Superpower": "Speed reading",
+      "OneThing": "Loves any kind of games",
+      "ImageName": "mmizukami.png"
+    },
+    {
+      "Username": "tmorrissey1",
+      "Name": "Travis M",
+      "Superpower": "Immortality",
+      "OneThing": "Great in bar fights",
+      "ImageName": "tmorrissey1.png"
+    },
+    {
+      "Username": "bnguyen336",
+      "Name": "Benjamin N",
+      "Superpower": "Understand all languages",
+      "OneThing": "Lives to play ping-pong",
+      "ImageName": "bnguyen336.png"
+    },
+    {
+      "Username": "dnguyen1214",
+      "Name": "Duy N",
+      "Superpower": "Teleportation",
+      "OneThing": "Funny, foodie, traveler",
+      "ImageName": "dnguyen1214.png"
+    },
+    {
+      "Username": "snguyen171",
+      "Name": "Son N",
+      "Superpower": "Mimic other powers",
+      "OneThing": "Gaming nerd",
+      "ImageName": "snguyrsky.png"
+    },
+    {
+      "Username": "vnguyen629",
+      "Name": "Vincent N",
+      "Superpower": "Photographic memory",
+      "OneThing": "Likes spam with banana sauce",
+      "ImageName": "vnguyen629.png"
+    },
+    {
+      "Username": "vnguyen678",
+      "Name": "Vu N",
+      "Superpower": "Stop time when asleep",
+      "OneThing": "Enjoys playing games",
+      "ImageName": "vnguyen678.png"
+    },
+    {
+      "Username": "dnovasky",
+      "Name": "Donald N",
+      "Superpower": "Fly like superman",
+      "OneThing": "Dislikes Apple",
+      "ImageName": "dnovarsky.png"
+    },
+    {
+      "Username": "rorellana2",
+      "Name": "Romario O",
+      "Superpower": "Super-hack power",
+      "OneThing": "Loves long walks on beach",
+      "ImageName": "rorellana2.png"
+    },
+    {
+      "Username": "dpham147",
+      "Name": "Danny P",
+      "Superpower": "Warp things",
+      "OneThing": "Is a gamer",
+      "ImageName": "dpham147.png"
+    },
+    {
+      "Username": "ischenck",
+      "Name": "Ian S",
+      "Superpower": "Live forever",
+      "OneThing": "Loves to backpack in wild",
+      "ImageName": "ischenck.png"
+    },
+    {
+      "Username": "rsullivan11",
+      "Name": "Ryan S",
+      "Superpower": "Answers by inspiration",
+      "OneThing": "Dislikes IDEs",
+      "ImageName": "rsullrsky.png"
+    },
+    {
+      "Username": "ltruong58",
+      "Name": "Long T",
+      "Superpower": "Build most popular app",
+      "OneThing": "Favorite sport is volleyball",
+      "ImageName": "ltruong58.png"
+    },
+    {
+      "Username": "mpaulding",
+      "Name": "Michael P",
+      "Superpower": "Super-caring teacher power",
+      "OneThing": "Complete ocean nut",
+      "ImageName": "mpaulding.png"
+    }
+  ]
+}
